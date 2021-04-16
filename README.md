@@ -31,7 +31,8 @@ https://www.nvidia.com/Download/index.aspx?lang=en-us
 2. pick your GTX card details (notebook) and download .run file.
 
 
-3.```sudo chmod +x ./NVIDIA-Linux-x86_64(version etc.)
-```
-./NVIDIA-Linux-x86_64(version etc.)
-```
+3.```sudo chmod +x ./NVIDIA-Linux-x86_64(version etc.)```
+
+
+``` ./NVIDIA-Linux-x86_64(version etc.)```
+
