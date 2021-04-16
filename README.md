@@ -13,7 +13,8 @@ Things needed to have after install of Arch Linux on Ideapad L340 Gaming (other 
 # what doesn't work
 - Bluetooth
 - *Wayland partially*
-
+- display brightness
+- 
 # How to Install
 
 - WiFi driver:
