@@ -33,5 +33,4 @@ https://www.nvidia.com/Download/index.aspx?lang=en-us
 
 3.```sudo chmod +x ./NVIDIA-Linux-x86_64(version etc.)
 
-
 ./NVIDIA-Linux-x86_64(version etc.)```
