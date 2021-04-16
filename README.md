@@ -26,6 +26,10 @@ if you haven't installed it in Arch installation process:
 
 1. go to
 https://www.nvidia.com/Download/index.aspx?lang=en-us
+
+
 2. pick your GTX card details (notebook) and download .run file.
+
+
 3.```sudo chmod +x ./NVIDIA-Linux-x86_64(version etc.)
 ./NVIDIA-Linux-x86_64(version etc.)```
